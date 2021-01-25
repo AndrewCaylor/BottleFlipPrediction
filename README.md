@@ -1,6 +1,7 @@
 # BottleFlipPrediction
 
 My final physics project in highschool!
+
 Determines if a water bottle flip will land right-side-up.
 
 Uses OpenCV to detect initial angle and angular velocoty of a water bottle.
